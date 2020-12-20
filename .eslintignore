@@ -1,4 +1,4 @@
-**/node_modules/**
+node_modules/
 **/*.d.ts
 *.config.js
-source-map-install.js
+src/serviceWorker.js
