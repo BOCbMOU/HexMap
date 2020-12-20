@@ -1,0 +1,71 @@
+{
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "bracket-pair-colorizer-2.colors": ["gold", "#ff009b", "#00cc9e"],
+  "bracket-pair-colorizer-2.showBracketsInGutter": true,
+  "bracket-pair-colorizer-2.showHorizontalScopeLine": false,
+  "editor.formatOnSave": true,
+  "editor.snippetSuggestions": "top",
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "eslint.workingDirectories": [{ "mode": "auto" }],
+  "extensionUpdateReporter.lastCheckedVersions": {
+    "ChakrounAnas.turbo-console-log": "1.4.0",
+    "christian-kohler.path-intellisense": "2.3.0",
+    "dbaeumer.vscode-eslint": "2.1.13",
+    "donjayamanne.githistory": "0.6.12",
+    "eamodio.gitlens": "10.2.2",
+    "esbenp.prettier-vscode": "5.7.1",
+    "leizongmin.node-module-intellisense": "1.5.0",
+    "naumovs.color-highlight": "2.3.0",
+    "ritwickdey.LiveServer": "5.6.1",
+    "ryu1kn.extension-update-reporter": "1.0.3",
+    "steoates.autoimport": "1.5.3",
+    "streetsidesoftware.code-spell-checker": "1.9.2",
+    "svipas.control-snippets": "1.9.1",
+    "ThreadHeap.serverless-ide-vscode": "0.5.26",
+    "Tyriar.sort-lines": "1.9.0",
+    "VisualStudioExptTeam.vscodeintellicode": "1.2.10"
+  },
+  "files.autoSave": "onFocusChange",
+  "git.autofetch": true,
+  "gitlens.defaultDateFormat": "D MMMM YYYY",
+  "gitlens.defaultDateShortFormat": "D.MM.YYYY",
+  "liveServer.settings.root": "/build/test-result",
+  "prettier.trailingComma": "es5",
+  "scm.alwaysShowProviders": true,
+  "terminal.integrated.rendererType": "dom",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+  "turboConsoleLog.addSemicolonInTheEnd": true,
+  "turboConsoleLog.logMessagePrefix": "\\x1b[36m%s\\x1b[0m', '>>> TCL",
+  "turboConsoleLog.quote": "'",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "window.title": "Not WSL: ${dirty}${activeEditorShort}${separator}${rootName}${separator}${appName}",
+  "window.zoomLevel": -1,
+  "workbench.editor.tabCloseButton": "off",
+  "search.searchOnType": false,
+  "search.seedOnFocus": true,
+  "prettier.singleQuote": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.minimap.size": "fill",
+  "editor.minimap.maxColumn": 100,
+  "sortLines.filterBlankLines": true,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "workbench.editor.pinnedTabSizing": "compact"
+}
